@@ -1,0 +1,31 @@
+{
+  "synthetic_unit_tests": 9,
+  "csv_interface_checks": 2,
+  "source_core_parity": [
+    {
+      "classes": 2,
+      "queries": 6,
+      "core_scores": "exact",
+      "pair_weights": "exact",
+      "class_balanced_selection": "exact"
+    },
+    {
+      "classes": 3,
+      "queries": 6,
+      "core_scores": "exact",
+      "pair_weights": "exact",
+      "class_balanced_selection": "exact"
+    },
+    {
+      "classes": 5,
+      "queries": 6,
+      "core_scores": "exact",
+      "pair_weights": "exact",
+      "class_balanced_selection": "exact"
+    }
+  ],
+  "external_repository_required": false,
+  "gpu_required": false,
+  "validation_inputs": "synthetic only",
+  "wheel_build": "passed"
+}
